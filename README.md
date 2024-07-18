@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pappuraja Prasad @LazyPrp
 - 👀 I’m interested in software technologies.
 - 🌱 I’m currently learning DSA,React
-- 💞️ I’m looking to collaborate on ful stack projects 
+- 💞️ I’m looking to collaborate on full stack projects 
 - 📫 How to reach me pappurajaprasad22@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
